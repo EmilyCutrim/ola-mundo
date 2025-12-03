@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iili.io/fzGmfBS.png" alt="Universidade Católica de Brasília">
+  <img src="https://iili.io/fzGmfBS.png" alt="Banner Emily Cutrim">
 </p>
 
 ## PROJETO PESSOAL - Olá mundo 📚:
@@ -33,7 +33,7 @@ python -m pip install --upgrade pip
 ✅ Feito isso, apenas faça um clone do projeto em sua máquina; abra na IDE que melhor preferir e execute no botão play (▶️) a aplicação.
 Em seu terminal, deve ser exibido uma mensagem como "Olá mundo", dessa forma:
 <p align="center">
-  <img src="https://iili.io/fzMCnmN.png" alt="Universidade Católica de Brasília">
+  <img src="https://iili.io/fzMCnmN.png" alt="Representação de terminal">
 </p>
 
 #### 🛠️ Tecnologias utilizadas:
